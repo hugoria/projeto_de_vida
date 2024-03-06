@@ -1,1 +1,2 @@
-# projeto_de_vida
+# PROJETODEVIDA_COM_JAVASCRIPT
+Trilha de Programação
