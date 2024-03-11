@@ -3,19 +3,14 @@
  
 
 :root { 
-    --cor-de-fundo: #ffffff; 
-<<<<<<< HEAD
-    --verde: #00d4f0; 
-    --branco: #fa0000; 
-    --botao-ativo: #d1d4af; 
-=======
-    --verde: #0004f0; 
+    --cor-de-fundo: #1E1E1E; 
+    --verde: #57ffff; 
     --branco: #FFFFFF; 
-    --botao-ativo: #8d9b12; 
->>>>>>> f1d62c04a6504faaf683ddc8704fc2c3f542f5b5
-    --botao-inativo: rgba(82, 71, 209, 0.5); 
-    --texto-fundo: rgba(22, 6, 196, 0.3);
+    --botao-ativo: #d4d0ff; 
+    --botao-inativo: rgba(45, 26, 255, 0.5); 
+    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
+
 
 body { 
     background-color: var(--cor-de-fundo); 
@@ -36,7 +31,7 @@ body {
 .titulo-principal { 
     text-align: left; 
     width: 100%; 
-    font-size: 32px; 
+    font-size: 32px; /*aula2 -página responsiva*/
     padding: 1em;
 }
  
