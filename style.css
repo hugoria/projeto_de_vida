@@ -1,12 +1,18 @@
-/*aula1- ESTRUTURANDO O SITE*/
+
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap'); 
  
-/*criando variáveis*/
+
 :root { 
     --cor-de-fundo: #ffffff; 
+<<<<<<< HEAD
+    --verde: #00d4f0; 
+    --branco: #fa0000; 
+    --botao-ativo: #d1d4af; 
+=======
     --verde: #0004f0; 
     --branco: #FFFFFF; 
     --botao-ativo: #8d9b12; 
+>>>>>>> f1d62c04a6504faaf683ddc8704fc2c3f542f5b5
     --botao-inativo: rgba(82, 71, 209, 0.5); 
     --texto-fundo: rgba(22, 6, 196, 0.3);
 }
@@ -114,7 +120,7 @@ body {
 
 }
 
-/*responsividade*/
+
 
 @media screen and (min-width: 768px) { 
     .botoes { 
@@ -131,4 +137,3 @@ body {
 
 
 
-/*aula2 -página responsiva*/
