@@ -1,2 +1,2 @@
-# PROJETODEVIDA_COM_JAVASCRIPT
-Trilha de Programação
+# PJ-do-ano
+Projeto de vida
